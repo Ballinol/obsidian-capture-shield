@@ -1,0 +1,10 @@
+{
+  "id": "capture-shield",
+  "name": "Capture Shield",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Hides the Obsidian window from screen sharing and recording (Zoom, Teams, Meet, OBS).",
+  "author": "Ballinol",
+  "authorUrl": "https://github.com/Ballinol",
+  "isDesktopOnly": true
+}
