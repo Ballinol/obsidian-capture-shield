@@ -26,14 +26,6 @@
 5. **Settings → Community plugins** → если стоит Restricted mode, нажми **Turn on community plugins**.
 6. В списке Installed plugins включи **Capture Shield**.
 
-### Вариант 2: через BRAT (когда выйдет релиз)
-
-[BRAT](https://github.com/TfTHacker/obsidian42-brat) — плагин для установки чужих репозиториев напрямую с GitHub. После того как здесь появится релиз с тегом:
-
-1. Установи BRAT из Community plugins.
-2. **Settings → BRAT → Add Beta plugin** → вставь `Ballinol/obsidian-capture-shield`.
-3. Включи Capture Shield.
-
 ## Как пользоваться
 
 Включить/выключить можно тремя способами:
